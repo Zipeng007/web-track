@@ -1,11 +1,8 @@
 {
-  "name": "@web-track/pk1",
-  "version": "1.1.0",
+  "name": "@web-track/core",
+  "version": "1.0.0",
   "description": "",
-  "main": "src/index.ts",
-  "publishConfig": {
-    "main": "dist/index.js"
-  },
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
